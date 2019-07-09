@@ -1,6 +1,6 @@
 class Person
   #your code here
-  def initialize()
+  def initialize(attributes)
 
   end
 end
